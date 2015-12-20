@@ -11,7 +11,7 @@ our $scenario = {
     module_startup => 1,
 
     participants => [
-        {module=>'Exporters'},
+        {module=>'Exporter'},
         {module=>'Exporter::Tiny'},
         {module=>'Exporter::Tidy'},
         {module=>'Exporter::Rinci'},
