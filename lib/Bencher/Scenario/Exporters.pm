@@ -1,4 +1,4 @@
-package Bencher::Scenario::StartupExporters;
+package Bencher::Scenario::Exporters;
 
 # DATE
 # VERSION
@@ -8,7 +8,7 @@ use strict;
 use warnings;
 
 our $scenario = {
-    summary => 'Benchmark the startup time of some popular Exporter modules',
+    summary => 'Benchmark some popular Exporter modules',
 
     module_startup => 1,
 
