@@ -1,5 +1,10 @@
 Revision history for Bencher-Scenario-Exporters
 
+0.03    2015-12-23 (PERLANCAR)
+
+	- Rename dist from BS-StartupExporters to BS-Exporters.
+
+
 0.02    2015-12-21 (PERLANCAR)
 
 	- No functional changes.
