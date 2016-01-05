@@ -1,5 +1,13 @@
 Revision history for Bencher-Scenario-Exporters
 
+0.04    2016-01-05 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild with updated Pod::Weaver::Plugin::Bencher::Scenario
+          (0.02) which shows sample benchmark results in POD.
+
+
 0.03    2015-12-23 (PERLANCAR)
 
 	- Rename dist from BS-StartupExporters to BS-Exporters.
