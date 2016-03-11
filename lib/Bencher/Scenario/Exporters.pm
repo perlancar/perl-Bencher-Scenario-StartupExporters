@@ -14,6 +14,7 @@ our $scenario = {
 
     participants => [
         {module=>'Exporter'},
+        {module=>'Exporter::Lite'},
         {module=>'Exporter::Tiny'},
         {module=>'Exporter::Tidy'},
         {module=>'Exporter::Rinci'},
