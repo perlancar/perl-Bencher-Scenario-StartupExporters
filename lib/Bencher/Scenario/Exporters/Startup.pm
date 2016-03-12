@@ -39,8 +39,8 @@ Some notes:
 Despite the C<::Lite> in its name and having less features than L<Exporter>, the
 startup overhead is worse than Exporter (mostly due to the use of L<warnings>).
 
-Also, the whole premise of this module is wrong. L<Exporter> I<can> be used
-without subclassing, all you have to do is:
+Also, this module is no longer necessary since Exporter 5.57 (2004), since
+Exporter can be used without subclassing, all you have to do is:
 
  use Exporter qw(import);
 
