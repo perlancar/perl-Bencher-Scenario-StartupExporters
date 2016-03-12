@@ -1,4 +1,12 @@
-Revision history for Bencher-Scenario-Exporters
+Revision history for Bencher-Scenarios-Exporters
+
+0.05    2016-03-12 (PERLANCAR) (unreleased)
+
+        - Add participant: Exporter::Lite.
+
+        - Rename dist from Bencher-Scenario-Exporters to
+          Bencher-Scenarios-Exporters.
+
 
 0.04    2016-01-05 (PERLANCAR)
 
