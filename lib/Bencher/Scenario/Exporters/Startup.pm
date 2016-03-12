@@ -26,9 +26,6 @@ our $scenario = {
 1;
 # ABSTRACT:
 
-=head1 SYNOPSIS
-
-
 =head1 DESCRIPTION
 
 Some notes:
