@@ -18,6 +18,7 @@ our $scenario = {
         {module=>'Exporter::Tiny'},
         {module=>'Exporter::Tidy'},
         {module=>'Exporter::Rinci'},
+        {module=>'PERLANCAR::Exporter::Lite'},
         {module=>'Sub::Exporter'},
     ],
 };
