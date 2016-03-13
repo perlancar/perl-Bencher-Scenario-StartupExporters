@@ -1,5 +1,12 @@
 Revision history for Bencher-Scenarios-Exporters
 
+0.07    2016-03-13 (PERLANCAR)
+
+	- Add scenario: Exporters::Exporting.
+
+	- Add participant: Xporter.
+
+
 0.06    2016-03-13 (PERLANCAR)
 
 	- Specify minimum version for PERLANCAR::Exporter::Lite.
