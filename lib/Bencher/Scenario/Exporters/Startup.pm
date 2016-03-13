@@ -24,6 +24,7 @@ our $scenario = {
         {module=>'Exporter::Rinci'},
         {module=>'PERLANCAR::Exporter::Lite'},
         {module=>'Sub::Exporter'},
+        {module=>'Xporter'},
     ],
 };
 
