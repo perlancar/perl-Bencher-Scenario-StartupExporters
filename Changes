@@ -1,5 +1,13 @@
 Revision history for Bencher-Scenarios-Exporters
 
+0.06    2016-03-13 (PERLANCAR)
+
+	- Specify minimum version for PERLANCAR::Exporter::Lite.
+
+	- [doc] Remove SYNOPSIS so automatic Synopsis from
+	  DZP:Bencher::Scenario can be added.
+
+
 0.05    2016-03-12 (PERLANCAR)
 
         - Add participants: Exporter::Lite, PERLANCAR::Exporter::Lite.
