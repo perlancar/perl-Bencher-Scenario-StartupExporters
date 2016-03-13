@@ -10,6 +10,10 @@ use warnings;
 our $scenario = {
     summary => 'Benchmark the startup overhead of some exporter modules',
 
+    modules => {
+        'PERLANCAR::Exporter::Lite' => {version=>0.02},
+    },
+
     module_startup => 1,
 
     participants => [
