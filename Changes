@@ -1,3 +1,9 @@
+0.091   2019-08-16  Released-By: PERLANCAR; Urgency: medium
+
+	- Exporters::Exporting: add participant: Exporter::Rinci,
+	  Perinci::Exporter.
+
+
 0.090   2019-08-15  Released-By: PERLANCAR; Urgency: medium
 
 	- Add participant: Perinci::Exporter.
